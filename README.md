@@ -60,37 +60,3 @@ AquaSathi-AI-Chatbot/
 ├── requirements.txt       # Dependencies
 ├── README.md              # This file
 ├── .gitignore             # Ignores .env and __pycache__
-```
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of your chatbot interface here (e.g., short and detailed responses, sidebar layout).
-
----
-
-## 📈 Future Enhancements
-
-- Speech-to-text voice input
-- Local/offline version
-- Multilingual support (Hindi, Gujarati)
-- Sanitation awareness quiz
-
----
-
-## 📚 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🤝 Acknowledgments
-
-- IBM SkillsBuild – AI-ML Internship
-- Google for Generative AI (Gemini API)
-- Streamlit for making web UI simple and fast
-
----
-
-💬 Made with care to spread awareness about clean water and sanitation.
